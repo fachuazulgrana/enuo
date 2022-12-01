@@ -1,0 +1,199 @@
+/*
+Theme Name:   ENUO
+Description:  Write here a brief description about your child-theme
+Author:       Facundo
+Author URL:   http://enuo.com
+Template:     gwangi
+Version:      2.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  ENUO
+*/
+
+/* Write here your own personal stylesheet */
+
+
+@font-face {
+  font-family: 'filter';
+  src: url('assets/fonts/filter.eot?72801288');
+  src: url('assets/fonts/filter.eot?72801288#iefix') format('embedded-opentype'),
+       url('assets/fonts/filter.woff2?72801288') format('woff2'),
+       url('assets/fonts/filter.woff?72801288') format('woff'),
+       url('assets/fonts/filter.ttf?72801288') format('truetype'),
+       url('assets/fonts/filter.svg?72801288#filter') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 160%;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'filter';
+    src: url('../font/filter.svg?72801288#filter') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "filter";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+ 
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: inherit;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+
+ 
+
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-templates:before { content: '\e800'; } /* '' */
+.icon-collab:before { content: '\e801'; } /* '' */
+.icon-mastering:before { content: '\e802'; } /* '' */
+
+/*Estilos Collab*/
+.enuo-button{border-radius: 50px !important; background: rgb(197,0,130);background: -moz-linear-gradient(90deg, rgba(197,0,130,1) 0%, rgba(192,0,57,1) 100%);background: -webkit-linear-gradient(90deg, rgba(197,0,130,1) 0%, rgba(192,0,57,1) 100%);background: linear-gradient(90deg, rgba(197,0,130,1) 0%, rgba(192,0,57,1) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c50082",endColorstr="#c00039",GradientType=1); border: none !important;font-family: Poppins !important;color: #FFF;	text-align: center;text-decoration: none;padding: .75em 1em;font-size: 16px;line-height: 1.5em;box-shadow: 0 2px 4px rgba(0,0,0,.3),inset 0 1px 0 rgba(255,255,255,.4);border: 0;cursor: pointer;font-weight: 500;}
+.enuo-button:hover{color: #FFF !important;box-shadow: 0 2px 4px rgba(0,0,0,.7),inset 0 1px 0 rgba(255,255,255,.6);}
+.enuo-button img{width: 20px; height: 19px;}
+.menu-collab{display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin: 30px auto !important;width: 100% !important;align-items: center;
+-webkit-flex-basis: 0;-ms-flex-preferred-size: 0;flex-basis: 0;-webkit-box-flex: 1;-webkit-flex-grow: 1;-ms-flex-positive: 1;flex-grow: 1;max-width: 100%;}
+.menu-collab .col-1{-ms-flex: 0 0 40%;flex: 0 0 40%;flex-basis: 40%;max-width: 40%;}
+.titulo-collab{font-size: 18px;}
+.menu-collab .col-2{-ms-flex: 0 0 60%;flex: 0 0 60%;flex-basis: 60%;max-width: 60%;align-items: center;}
+.align-right{float: right;}
+.align-center{text-align: center;}
+form.select-genero{margin: 0 15px;display: inline-flex;}
+form.select-genero select{border: 0;color: #FFF;font-family: Poppins !important;cursor: pointer;-webkit-appearance: none;-moz-appearance: none;-ms-appearance: none;appearance: none;outline: 0;background: #242330 url('http://enuo.com/wp-content/themes/ENUO/assets/images/ic-select.png') no-repeat;background-position-x: 0%;background-position-y: 0%;background-position: right;font-size: 16px;padding-right: 34px;}
+.collabs{width: 100%;}
+.collabs .collab{display: flex;flex-flow: row wrap;justify-content: space-between;align-items: center;padding: 2%;background: #181818; width: 100%;}
+.collabs .collab .c-nombre{width: 20%}
+.collabs .collab .c-audioprevio{width: 68%; max-width: 750px;}
+.collabs .collab .c-accion{width: 12%;display: inline-block;}
+.collabs .collab .c-accion a,.collabs .collab .c-accion span{margin: 0 5px;cursor: pointer;}
+.collabs .collab .c-accion img{width: 50%;max-width: 27px;}
+.btnabrirmodal, .btncancelarmodal{cursor: pointer;}
+.btnabrirmodal img, .btncancelarmodal img {width: 100% !important;max-width: 27px!important;}
+audio{width: 100%;background:#181818;color: #FFF;filter: opacity(1);}
+audio::-webkit-media-controls-panel,audio::-webkit-media-controls-panel,audio::-webkit-media-controls-mute-button,audio::-webkit-media-controls-timeline-container,audio::-webkit-media-controls-current-time-display,audio::-webkit-media-controls-time-remaining-display,audio::-webkit-media-controls-timeline,audio::-webkit-media-controls-volume-slider-container,audio::-webkit-media-controls-volume-slider,audio::-webkit-media-controls-seek-back-button,audio::-webkit-media-controls-seek-forward-button,audio::-webkit-media-controls-fullscreen-button,audio::-webkit-media-controls-rewind-button,audio::-webkit-media-controls-return-to-realtime-button,audio::-webkit-media-controls-toggle-closed-captions-button,audio::-webkit-media-controls-enclosure{background-color: #181818;color: #FFF !important;border: none; 
+border-color: #181818 }
+
+audio::-webkit-media-controls-play-button{background-color: #FFF;color: #FFF !important;border: none;}
+
+.paginacion-collab{margin-top: 40px;}
+.paginacion-collab .enuo-button-o {border-radius: 50px;border: solid 3px transparent;background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #c50082, #c00039);background-origin: border-box;background-clip: content-box, border-box;box-shadow: 2px 1000px 1px #242330 inset;font-family: Poppins !important;color: #FFF;text-align: center;text-decoration: none;padding: .75em 1em;font-size: 16px;line-height: 1.5em;}
+.paginacion-collab a{color: #FFF !important;text-decoration: none;}
+
+@media only screen and (max-width: 780px){ 
+	.collabs .collab{display: block}
+	.collabs .collab .c-nombre,.collabs .collab .c-audioprevio,.collabs .collab .c-accion{width: 100%;}
+}
+
+
+.post-type-archive-collab .site-content {background: #242330 !important;color: #FFF;font-family: Poppins !important;}
+
+.filtros-collab {float: right;}
+
+ /* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,.5);
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #181818 !important;
+  margin: 15% auto;
+  padding: 40px;
+  border: none;
+  width: 80%;
+	max-width: 700px;
+	text-align: center;
+}
+
+/* The Close Button */
+.close, .closec {
+  color: #FFF;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+	text-align: right !important;
+}
+
+.close:hover,
+.close:focus, .closec:hover, .closec:focus  {
+  color: #FFF;
+  text-decoration: none;
+  cursor: pointer;
+} 
+
+/* Estilos Filtros */
+.dropbtn {
+  /*background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;	*/
+	
+	border: 0;color: #FFF;font-family: Poppins !important;cursor: pointer;-webkit-appearance: none;-moz-appearance: none;-ms-appearance: none;appearance: none;outline: 0;background: #242330 url('/wp-content/themes/ENUO/assets/images/ic-select.png') no-repeat;background-position-x: 0%;background-position-y: 0%;background-position: right;font-size: 16px;padding-right: 34px;
+	
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;	
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #2B2A3A;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #242330;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {/*background-color: #3e8e41;*/}

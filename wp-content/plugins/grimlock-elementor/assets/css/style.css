@@ -1,0 +1,31 @@
+/**
+ * Elementor
+ */
+.elementor-template-full-width #content,
+.page-template-elementor_header_footer #content,
+.elementor_library-template-elementor_header_footer #content {
+  padding: 0 !important;
+}
+
+.elementor-template-full-width #content > .region__container,
+.page-template-elementor_header_footer #content > .region__container,
+.elementor_library-template-elementor_header_footer #content > .region__container {
+  padding: 0 !important;
+  max-width: 100% !important;
+}
+
+.elementor-template-full-width #content > .region__container > .region__row,
+.page-template-elementor_header_footer #content > .region__container > .region__row,
+.elementor_library-template-elementor_header_footer #content > .region__container > .region__row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.elementor-template-full-width #content > .region__container > .region__row > .elementor,
+.page-template-elementor_header_footer #content > .region__container > .region__row > .elementor,
+.elementor_library-template-elementor_header_footer #content > .region__container > .region__row > .elementor {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}

@@ -1,0 +1,152 @@
+# Copyright (C) 2017 Never5
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Download Monitor - Advanced Access Manager 1.2.0\n"
+"Report-Msgid-Bugs-To: https://www.download-monitor.com/\n"
+"POT-Creation-Date: 2017-10-31 09:28:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: classes/class-dlm-aam-dependency-manager.php:71
+msgid ""
+"Download Monitor needs to be installed and activated for the Advanced "
+"Access Manager!"
+msgstr ""
+
+#: classes/class-dlm-aam-dependency-manager.php:82
+msgid ""
+"Download Monitor needs to be updated to at least version %s for the "
+"Advanced Access Manager!"
+msgstr ""
+
+#: classes/class-dlm-aam-global-rules-page.php:17
+msgid "Global Rules"
+msgstr ""
+
+#: classes/class-dlm-aam-global-rules-page.php:100
+msgid "Advanced Access Manager - Global Rules"
+msgstr ""
+
+#: classes/class-dlm-aam-global-rules-page.php:106
+msgid "Save Rules"
+msgstr ""
+
+#: classes/class-dlm-aam-meta-box.php:20
+msgid "Advanced Access Rules"
+msgstr ""
+
+#: classes/class-dlm-aam-pa-compat.php:37
+msgid "Hide PA Downloads?"
+msgstr ""
+
+#: classes/class-dlm-aam-pa-compat.php:38
+msgid "Hide downloads in Page Addon overview that user has not access to."
+msgstr ""
+
+#: classes/class-dlm-aam-pa-compat.php:39
+msgid ""
+"Note that this only works with the 'normal' Page Addon downloads and e.g. "
+"not with featured downloads or tags."
+msgstr ""
+
+#: classes/class-dlm-aam-shortcode-filter.php:33
+msgid "Hide Downloads?"
+msgstr ""
+
+#: classes/class-dlm-aam-shortcode-filter.php:34
+msgid "Hide downloads in %s overview that user has no access to."
+msgstr ""
+
+#: classes/class-dlm-aam-shortcode-filter.php:35
+msgid ""
+"Let Advanced Access Manager filter your downloads displayed by %s and "
+"remove downloads that the current user has no access to"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:128
+msgid "None"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:129
+msgid "Download Limit"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:130
+msgid "Global Download Limit"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:131
+msgid "Daily Download Limit"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:132
+msgid "Daily Global Download Limit"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:133
+msgid "Date Limit"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:134
+msgid "Start Date"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:135
+msgid "End Date"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:136
+msgid "Remove"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:137
+msgid "Anyone"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:138
+msgid "Role"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:139
+msgid "User"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:140
+msgid "IP"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:141
+msgid "No"
+msgstr ""
+
+#: classes/class-dlm-advanced-access-manager.php:142
+msgid "Yes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Download Monitor - Advanced Access Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.download-monitor.com/extensions/advanced-access-manager/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Advanced Access Manager extension allows you to create more advanced "
+"download limitations."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Never5"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.never5.com/"
+msgstr ""

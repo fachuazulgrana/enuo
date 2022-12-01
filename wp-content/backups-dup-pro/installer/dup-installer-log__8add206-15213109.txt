@@ -1,0 +1,1203 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 09:53:22
+* VERSION: 3.8.8
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.19                                |7.3.29
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.3.29 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.48 (cPanel) OpenSSL/1.1.1k mod_bwlimited/1.4
+DOC ROOT____________: "/home/oasystec/public_html/enuo"
+LOG FILE 644________: false
+REQUEST URL_________: "https://oasys-tec.com.ar/enuo/dup-installer/main.installer.php"
+********************************************************************************
+INSTALLER INFO
+PATH_NEW____________: "/home/oasystec/public_html/enuo"
+URL_NEW_____________: "https://oasys-tec.com.ar/enuo"
+********************************************************************************
+
+--------------------------------------
+ARCHIVE INFO
+--------------------------------------
+ARCHIVE NAME________: "/home/oasystec/public_html/enuo/20210715_enuo_8add206a876f846d7768_20210715213109_archive.zip"
+ARCHIVE SIZE________: 226.47MB
+CREATED_____________: 2021-07-15 21:31:09
+WP VERSION__________: 5.5.5
+DUP VERSION_________: 3.8.8
+DB VERSION__________: 10.2.38
+DB FILE SIZE________: 14.5MB
+DB TABLES___________: 72
+DB ROWS_____________: 7902
+ORIGINAL URL________: http://enuo.com
+PATH HOME___________: /home/enuo/public_html
+PATH ABS____________: /home/enuo/public_html
+PATH WPCONFIG_______: /home/enuo/public_html
+PATH WPCONTENT______: /home/enuo/public_html/wp-content
+PATH UPLOADS________: /home/enuo/public_html/wp-content/uploads
+PATH PLUGINS________: /home/enuo/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/enuo/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/enuo/public_html/wp-content/themes
+***  PLUGINS ***
+PLUGIN [SLUG:admin-menu-editor-pro/menu-editor.php             ][ON:true ] Admin Menu Editor Pro
+PLUGIN [SLUG:advanced-custom-fields/acf.php                    ][ON:true ] Advanced Custom Fields
+PLUGIN [SLUG:bp-better-messages/bp-better-messages.php         ][ON:true ] BP Better Messages
+PLUGIN [SLUG:buddydrive/buddydrive.php                         ][ON:true ] BuddyDrive
+PLUGIN [SLUG:buddypress/bp-loader.php                          ][ON:true ] BuddyPress
+PLUGIN [SLUG:buddypress-user-profile-tabs-creator-pro/bp-user-profile-tabs-creator.php][ON:true ] BuddyPress User Profile Tabs Creator Pro
+PLUGIN [SLUG:child-theme-generator/child-theme-generator.php   ][ON:true ] Child Theme Generator
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ] Classic Editor
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ] Contact Form 7
+PLUGIN [SLUG:cf7-post-fields/cf7-post-fields.php               ][ON:true ] Contact Form 7 - Post Fields
+PLUGIN [SLUG:custom-content-shortcode/custom-content-shortcode.php][ON:true ] Custom Content Shortcode
+PLUGIN [SLUG:custom-post-types/custom-post-types.php           ][ON:true ] Custom post types
+PLUGIN [SLUG:bp-custom-menu/bp-custom-menu.php                 ][ON:true ] Custom Profile Menu for BuddyPress
+PLUGIN [SLUG:disable-admin-notices/disable-admin-notices.php   ][ON:true ] Disable Admin Notices Individually
+PLUGIN [SLUG:download-monitor/download-monitor.php             ][ON:true ] Download Monitor
+PLUGIN [SLUG:dlm-advanced-access-manager/dlm-advanced-access-manager.php][ON:true ] Download Monitor - Advanced Access Manager
+PLUGIN [SLUG:dlm-buttons/dlm-buttons.php                       ][ON:true ] Download Monitor - Buttons
+PLUGIN [SLUG:dlm-downloading-page/dlm-downloading-page.php     ][ON:true ] Download Monitor - Downloading Page
+PLUGIN [SLUG:dlm-page-addon/dlm-page-addon.php                 ][ON:true ] Download Monitor Page Addon
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ] Duplicator Pro
+PLUGIN [SLUG:dynamic-content-for-elementor/dynamic-content-for-elementor.php][ON:true ] Dynamic Content for Elementor
+PLUGIN [SLUG:easy-custom-sidebars/easy-custom-sidebars.php     ][ON:true ] Easy Custom Sidebars
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ] Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ] Elementor Pro
+PLUGIN [SLUG:gradient-button-for-elementor/gradient-button-for-elementor.php][ON:true ] Gradient Button for Elementor
+PLUGIN [SLUG:grimlock/grimlock.php                             ][ON:true ] Grimlock
+PLUGIN [SLUG:grimlock-buddypress/grimlock-buddypress.php       ][ON:true ] Grimlock for BuddyPress
+PLUGIN [SLUG:grimlock-elementor/grimlock-elementor.php         ][ON:true ] Grimlock for Elementor
+PLUGIN [SLUG:grimlock-jetpack/grimlock-jetpack.php             ][ON:true ] Grimlock for Jetpack
+PLUGIN [SLUG:grimlock-paid-memberships-pro/grimlock-paid-memberships-pro.php][ON:true ] Grimlock for Paid Memberships Pro
+PLUGIN [SLUG:grimlock-hero/grimlock-hero.php                   ][ON:true ] Grimlock Hero
+PLUGIN [SLUG:grimlock-isotope/grimlock-isotope.php             ][ON:true ] Grimlock Isotope
+PLUGIN [SLUG:grimlock-login/grimlock-login.php                 ][ON:true ] Grimlock Login
+PLUGIN [SLUG:jetpack/jetpack.php                               ][ON:true ] Jetpack by WordPress.com
+PLUGIN [SLUG:kirki/kirki.php                                   ][ON:true ] Kirki Customizer Framework
+PLUGIN [SLUG:loco-translate/loco.php                           ][ON:true ] Loco Translate
+PLUGIN [SLUG:paid-memberships-pro/paid-memberships-pro.php     ][ON:true ] Paid Memberships Pro
+PLUGIN [SLUG:pmpro-buddypress/pmpro-buddypress.php             ][ON:true ] Paid Memberships Pro - BuddyPress Add On
+PLUGIN [SLUG:pmpro-download-monitor/pmpro-download-monitor.php ][ON:true ] Paid Memberships Pro - Download Monitor Integration Add On
+PLUGIN [SLUG:post-duplicator/m4c-postduplicator.php            ][ON:true ] Post Duplicator
+PLUGIN [SLUG:post-my-contact-form-7/cf7-2-post.php             ][ON:true ] Post My CF7 Form
+PLUGIN [SLUG:buddypress-media/index.php                        ][ON:true ] rtMedia for WordPress, BuddyPress and bbPress
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ] Slider Revolution
+PLUGIN [SLUG:theplus_elementor_addon/theplus_elementor_addon.php][ON:false] The Plus Addons for Elementor Page Builder
+PLUGIN [SLUG:the-plus-addons-for-elementor-page-builder/theplus_elementor_addon.php][ON:false] The Plus Addons for Elementor Page Builder Lite
+PLUGIN [SLUG:ultimate-elementor/ultimate-elementor.php         ][ON:true ] Ultimate Addons for Elementor
+PLUGIN [SLUG:maintenance.php                                   ][ON:false] maintenance.php
+--------------------------------------
+--------------------------------------
+
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:53:22
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+HOME URL OLD________: "http://enuo.com"
+HOME URL NEW________: "https://oasys-tec.com.ar/enuo"
+SITE URL OLD________: "http://enuo.com"
+SITE URL NEW________: "https://oasys-tec.com.ar/enuo"
+CONTENT URL OLD_____: "http://enuo.com/wp-content"
+CONTENT URL NEW_____: "https://oasys-tec.com.ar/enuo/wp-content"
+UPLOAD URL OLD______: "http://enuo.com/wp-content/uploads"
+UPLOAD URL NEW______: "https://oasys-tec.com.ar/enuo/wp-content/uploads"
+PLUGINS URL OLD_____: "http://enuo.com/wp-content/plugins"
+PLUGINS URL NEW_____: "https://oasys-tec.com.ar/enuo/wp-content/plugins"
+MUPLUGINS URL OLD___: "http://enuo.com/wp-content/mu-plugins"
+MUPLUGINS URL NEW___: "https://oasys-tec.com.ar/enuo/wp-content/mu-plugins"
+HOME PATH OLD_______: "/home/enuo/public_html"
+HOME PATH NEW_______: "/home/oasystec/public_html/enuo"
+SITE PATH OLD_______: "/home/enuo/public_html"
+SITE PATH NEW_______: "/home/oasystec/public_html/enuo"
+CONTENT PATH OLD____: "/home/enuo/public_html/wp-content"
+CONTENT PATH NEW____: "/home/oasystec/public_html/enuo/wp-content"
+UPLOAD PATH OLD_____: "/home/enuo/public_html/wp-content/uploads"
+UPLOAD PATH NEW_____: "/home/oasystec/public_html/enuo/wp-content/uploads"
+PLUGINS PATH OLD____: "/home/enuo/public_html/wp-content/plugins"
+PLUGINS PATH NEW____: "/home/oasystec/public_html/enuo/wp-content/plugins"
+MUPLUGINS PATH OLD__: "/home/enuo/public_html/wp-content/mu-plugins"
+MUPLUGINS PATH NEW__: "/home/oasystec/public_html/enuo/wp-content/mu-plugins"
+ARCHIVE ENGINE______: "ziparchivechunking"
+CLIENT KICKOFF______: true
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "/home/oasystec/public_html/enuo"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+LOG-TIME[/home/oasystec/public_html/enuo/dup-installer/ctrls/ctrl.base.php:224][DELTA:   0.23534]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION validate
+
+-------------------------
+AJAX ACTION sparam_s1
+
+-------------------------
+AJAX ACTION validate
+
+-------------------------
+AJAX ACTION extract
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:54:10
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+HOME URL OLD________: "http://enuo.com"
+HOME URL NEW________: "https://oasys-tec.com.ar/enuo"
+SITE URL OLD________: "http://enuo.com"
+SITE URL NEW________: "https://oasys-tec.com.ar/enuo"
+CONTENT URL OLD_____: "http://enuo.com/wp-content"
+CONTENT URL NEW_____: "https://oasys-tec.com.ar/enuo/wp-content"
+UPLOAD URL OLD______: "http://enuo.com/wp-content/uploads"
+UPLOAD URL NEW______: "https://oasys-tec.com.ar/enuo/wp-content/uploads"
+PLUGINS URL OLD_____: "http://enuo.com/wp-content/plugins"
+PLUGINS URL NEW_____: "https://oasys-tec.com.ar/enuo/wp-content/plugins"
+MUPLUGINS URL OLD___: "http://enuo.com/wp-content/mu-plugins"
+MUPLUGINS URL NEW___: "https://oasys-tec.com.ar/enuo/wp-content/mu-plugins"
+HOME PATH OLD_______: "/home/enuo/public_html"
+HOME PATH NEW_______: "/home/oasystec/public_html/enuo"
+SITE PATH OLD_______: "/home/enuo/public_html"
+SITE PATH NEW_______: "/home/oasystec/public_html/enuo"
+CONTENT PATH OLD____: "/home/enuo/public_html/wp-content"
+CONTENT PATH NEW____: "/home/oasystec/public_html/enuo/wp-content"
+UPLOAD PATH OLD_____: "/home/enuo/public_html/wp-content/uploads"
+UPLOAD PATH NEW_____: "/home/oasystec/public_html/enuo/wp-content/uploads"
+PLUGINS PATH OLD____: "/home/enuo/public_html/wp-content/plugins"
+PLUGINS PATH NEW____: "/home/oasystec/public_html/enuo/wp-content/plugins"
+MUPLUGINS PATH OLD__: "/home/enuo/public_html/wp-content/mu-plugins"
+MUPLUGINS PATH NEW__: "/home/oasystec/public_html/enuo/wp-content/mu-plugins"
+ARCHIVE ENGINE______: "ziparchivechunking"
+CLIENT KICKOFF______: false
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "/home/oasystec/public_html/enuo"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+ARCHIVE OFFSET 0
+FILE EXTRACTION ERROR: wp-content/uploads/youzer/file_5f3c195a5bbaa./ | MSG:ZipArchive::extractTo(/home/oasystec/public_html/enuo/): failed to open stream: Is a directory
+
+CHUNK COMPLETE - RUNTIME: 5.0167 sec. - Files processed: 22473 of 24216
+
+-------------------------
+AJAX ACTION extract
+ARCHIVE OFFSET 22473
+Archive just got done processing last file in list of 24495
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+Resetting permissions
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini was reset and a backup made to .user.ini-210715215416.orig.
+- web.config file was not reset or backed up.
+
+EXTRACTION COMPLETE @ 09:54:16 - RUNTIME: 6.4042 sec. - Files processed: 24216 of 24216
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] Can't extract files
+	LONG MSG: FILE: <b>wp-content/uploads/youzer/file_5f3c195a5bbaa./</b><br>Message: ZipArchive::extractTo(/home/oasystec/public_html/enuo/): failed to open stream: Is a directory
+<br><br>
+
+====================================
+LOG-TIME[/home/oasystec/public_html/enuo/dup-installer/ctrls/ctrl.base.php:224][DELTA:   0.18112]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION sparam_s2
+
+-------------------------
+AJAX ACTION dbtest
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'oasystec_admin'@'localhost' (using password: YES) [CODE:2|FILE:/home/oasystec/public_html/enuo/dup-installer/classes/class.db.php|LINE:43]
+DATABASE CONNECTION ERROR: Access denied for user 'oasystec_admin'@'localhost' (using password: YES)[ERRNO:1045]
+
+-------------------------
+AJAX ACTION sparam_s2
+
+-------------------------
+AJAX ACTION dbtest
+
+-------------------------
+AJAX ACTION sparam_s2
+
+-------------------------
+AJAX ACTION dbtest
+
+-------------------------
+AJAX ACTION dbinstall
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 09:55:33
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+TABLE PREFIX________: "en0722_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+NON-BREAKING SPACES_: false
+CHARSET_____________: "utf8"
+CHARSET FB__________: false
+CHARSET FB VAL______: "big5"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+COLLATE FB VAL______: "big5_chinese_ci"
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.34 -- Build Server: 10.2.38
+FILE SIZE:	dup-database__8add206-15213109.sql (7.34MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+COLLATE FB:	Off
+DB CHUNKING:	enabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+
+NOTICE: This servers version [5.7.34] is less than the build version [10.2.38].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+
+-------------------------
+AJAX ACTION dbinstall
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 115883
+Auto Commit set to false successfully
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'character_set_client' can't be set to the value of 'NULL'
+	SQL: /*!40101 SET character_set_client = @saved_cs_client */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40101 SET character_set_client = @saved_cs_client */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40101 SET character_set_client = @saved_cs_client */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+
+-------------------------
+AJAX ACTION dbinstall
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 6939512
+Auto Commit set to false successfully
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'time_zone' can't be set to the value of 'NULL'
+	SQL: /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'sql_mode' can't be set to the value of 'NULL'
+	SQL: /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'foreign_key_checks' can't be set to the value of 'NULL'
+	SQL: /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'unique_checks' can't be set to the value of 'NULL'
+	SQL: /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+DB QUERY [ERROR][/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096] MSG: Variable 'sql_notes' can't be set to the value of 'NULL'
+	SQL: /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+#0  DUPX_DB::mysqli_query(mysqli Object ([affected_rows] => ,[client_info] => ,[client_version] => ,[connect_errno] => ,[connect_error] => ,[errno] => ,[error] => ,[error_list] => ,[field_count] => ,[host_info] => ,[info] => ,[insert_id] => ,[server_info] => ,[server_version] => ,[stat] => ,[sqlstate] => ,[protocol_version] => ,[thread_id] => ,[warning_count] => ), /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:1096]
+#1  DUPX_DBInstall->writeQueryInDB(/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:727]
+#2  DUPX_DBInstall->writeInChunks() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:282]
+#3  DUPX_DBInstall->insertDatabase() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.dbinstall.php:250]
+#4  DUPX_DBInstall->deploy() called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:173]
+#5  DUPX_Ctrl_ajax::actions(dbinstall) called at [/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.ajax.php:80]
+#6  DUPX_Ctrl_ajax::controller() called at [/home/oasystec/public_html/enuo/dup-installer/main.installer.php:51]
+
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	6
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	672
+
+TABLES ROWS
+
+TABLE "en0722_bp_activity"______________________________[ROWS:    31]
+TABLE "en0722_bp_activity_meta"_________________________[ROWS:     4]
+TABLE "en0722_bp_friends"_______________________________[ROWS:     0]
+TABLE "en0722_bp_groups"________________________________[ROWS:     0]
+TABLE "en0722_bp_groups_groupmeta"______________________[ROWS:     0]
+TABLE "en0722_bp_groups_members"________________________[ROWS:     0]
+TABLE "en0722_bp_invitations"___________________________[ROWS:     0]
+TABLE "en0722_bp_messages_messages"_____________________[ROWS:     1]
+TABLE "en0722_bp_messages_meta"_________________________[ROWS:     0]
+TABLE "en0722_bp_messages_notices"______________________[ROWS:     0]
+TABLE "en0722_bp_messages_recipients"___________________[ROWS:     1]
+TABLE "en0722_bp_notifications"_________________________[ROWS:    14]
+TABLE "en0722_bp_notifications_meta"____________________[ROWS:     0]
+TABLE "en0722_bp_xprofile_data"_________________________[ROWS:    26]
+TABLE "en0722_bp_xprofile_fields"_______________________[ROWS:     8]
+TABLE "en0722_bp_xprofile_groups"_______________________[ROWS:     2]
+TABLE "en0722_bp_xprofile_meta"_________________________[ROWS:     7]
+TABLE "en0722_commentmeta"______________________________[ROWS:     4]
+TABLE "en0722_comments"_________________________________[ROWS:     4]
+TABLE "en0722_dlm_aam_rules"____________________________[ROWS:     1]
+TABLE "en0722_dlm_buttons"______________________________[ROWS:     1]
+TABLE "en0722_dlm_order"________________________________[ROWS:     0]
+TABLE "en0722_dlm_order_customer"_______________________[ROWS:     0]
+TABLE "en0722_dlm_order_item"___________________________[ROWS:     0]
+TABLE "en0722_dlm_order_transaction"____________________[ROWS:     0]
+TABLE "en0722_dlm_session"______________________________[ROWS:     0]
+TABLE "en0722_download_log"_____________________________[ROWS:    15]
+TABLE "en0722_duplicator_pro_entities"__________________[ROWS:     5]
+TABLE "en0722_duplicator_pro_packages"__________________[ROWS:     0]
+TABLE "en0722_enuo_configs"_____________________________[ROWS:     2]
+TABLE "en0722_links"____________________________________[ROWS:     0]
+TABLE "en0722_logy_users"_______________________________[ROWS:     0]
+TABLE "en0722_options"__________________________________[ROWS:  1048]
+TABLE "en0722_pmpro_discount_codes"_____________________[ROWS:     0]
+TABLE "en0722_pmpro_discount_codes_levels"______________[ROWS:     0]
+TABLE "en0722_pmpro_discount_codes_uses"________________[ROWS:     0]
+TABLE "en0722_pmpro_membership_levelmeta"_______________[ROWS:     3]
+TABLE "en0722_pmpro_membership_levels"__________________[ROWS:     3]
+TABLE "en0722_pmpro_membership_orders"__________________[ROWS:     2]
+TABLE "en0722_pmpro_memberships_categories"_____________[ROWS:     0]
+TABLE "en0722_pmpro_memberships_pages"__________________[ROWS:    20]
+TABLE "en0722_pmpro_memberships_users"__________________[ROWS:     6]
+TABLE "en0722_postmeta"_________________________________[ROWS:  4845]
+TABLE "en0722_posts"____________________________________[ROWS:   868]
+TABLE "en0722_revslider_css"____________________________[ROWS:   130]
+TABLE "en0722_revslider_css_bkp"________________________[ROWS:    47]
+TABLE "en0722_revslider_layer_animations"_______________[ROWS:     5]
+TABLE "en0722_revslider_layer_animations_bkp"___________[ROWS:     5]
+TABLE "en0722_revslider_navigations"____________________[ROWS:     0]
+TABLE "en0722_revslider_navigations_bkp"________________[ROWS:     0]
+TABLE "en0722_revslider_sliders"________________________[ROWS:     2]
+TABLE "en0722_revslider_sliders_bkp"____________________[ROWS:     2]
+TABLE "en0722_revslider_slides"_________________________[ROWS:     7]
+TABLE "en0722_revslider_slides_bkp"_____________________[ROWS:     7]
+TABLE "en0722_revslider_static_slides"__________________[ROWS:     2]
+TABLE "en0722_revslider_static_slides_bkp"______________[ROWS:     2]
+TABLE "en0722_rt_rtm_activity"__________________________[ROWS:     3]
+TABLE "en0722_rt_rtm_api"_______________________________[ROWS:     0]
+TABLE "en0722_rt_rtm_media"_____________________________[ROWS:     4]
+TABLE "en0722_rt_rtm_media_interaction"_________________[ROWS:     2]
+TABLE "en0722_rt_rtm_media_meta"________________________[ROWS:     4]
+TABLE "en0722_signups"__________________________________[ROWS:     3]
+TABLE "en0722_term_relationships"_______________________[ROWS:   337]
+TABLE "en0722_term_taxonomy"____________________________[ROWS:    74]
+TABLE "en0722_termmeta"_________________________________[ROWS:    13]
+TABLE "en0722_terms"____________________________________[ROWS:    74]
+TABLE "en0722_usermeta"_________________________________[ROWS:   249]
+TABLE "en0722_users"____________________________________[ROWS:     8]
+TABLE "en0722_yz_bookmark"______________________________[ROWS:     0]
+TABLE "en0722_yz_hashtags"______________________________[ROWS:     0]
+TABLE "en0722_yz_hashtags_items"________________________[ROWS:     0]
+TABLE "en0722_yz_reviews"_______________________________[ROWS:     0]
+
+DATABASE CACHE/TRANSITIENT [ROWS:   540]
+
+INSERT DATA RUNTIME: 12.8653 sec.
+STEP-2 COMPLETE @ 09:55:46 - RUNTIME: 12.8653 sec.
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] DATABASE ERROR: database error write
+	LONG MSG: DATABASE ERROR: 'Variable 'character_set_client' can't be set to the value of 'NULL''
+	[SQL=/*!40101 SET character_set_client = @saved_cs_client */;...]
+
+DATABASE ERROR: 'Variable 'time_zone' can't be set to the value of 'NULL''
+	[SQL=/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;...]
+
+DATABASE ERROR: 'Variable 'sql_mode' can't be set to the value of 'NULL''
+	[SQL=/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;...]
+
+DATABASE ERROR: 'Variable 'foreign_key_checks' can't be set to the value of 'NULL''
+	[SQL=/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;...]
+
+DATABASE ERROR: 'Variable 'unique_checks' can't be set to the value of 'NULL''
+	[SQL=/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;...]
+
+DATABASE ERROR: 'Variable 'sql_notes' can't be set to the value of 'NULL''
+	[SQL=/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;...]
+
+
+
+-----------------------
+[NOTICE] Plugin Jetpack by WordPress.com disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically. <strong>You must reactivate from the WordPress admin panel after completing the installation</strong> or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+LOG-TIME[/home/oasystec/public_html/enuo/dup-installer/ctrls/ctrl.base.php:224][DELTA:   0.02819]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION sparam_s3
+
+-------------------------
+AJAX ACTION webupdate
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [init][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 09:56:07
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "ENUO"
+url_old_______________: "http://enuo.com"
+url_new_______________: "https://oasys-tec.com.ar/enuo"
+siteurl_______________: "https://oasys-tec.com.ar/enuo"
+path_new______________: "/home/oasystec/public_html/enuo"
+path_old______________: "/home/enuo/public_html"
+replace_mode__________: "legacy"
+empty_schedule_storage: true
+mode_chunking_________: 2
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+cross_search__________: true
+postguid______________: false
+fullsearch____________: false
+replaceMail___________: false
+maxSerializeStrlen____: 4000000
+auth_keys_and_salts___: false
+mu_replace____________: Array
+(
+)
+
+action_mu_mode________: -1
+DISALLOW_FILE_EDIT____: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+AUTOSAVE_INTERVAL_____: Array
+(
+    [value] => 60
+    [inWpConfig] => 
+)
+
+WP_POST_REVISIONS_____: Array
+(
+    [value] => 9223372036854775807
+    [inWpConfig] => 
+)
+
+FORCE_SSL_ADMIN_______: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_AUTO_UPDATE_CORE___: Array
+(
+    [value] => minor
+    [inWpConfig] => 1
+)
+
+WP_CACHE______________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WPCACHEHOME___________: Array
+(
+    [value] => /
+    [inWpConfig] => 
+)
+
+WP_DEBUG______________: Array
+(
+    [value] => 
+    [inWpConfig] => 1
+)
+
+WP_DEBUG_LOG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_DEBUG_DISPLAY______: Array
+(
+    [value] => 1
+    [inWpConfig] => 
+)
+
+SCRIPT_DEBUG__________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+SAVEQUERIES___________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+COOKIE_DOMAIN_________: Array
+(
+    [value] => 
+    [inWpConfig] => 
+)
+
+WP_MEMORY_LIMIT_______: Array
+(
+    [value] => 40M
+    [inWpConfig] => 
+)
+
+WP_MAX_MEMORY_LIMIT___: Array
+(
+    [value] => 256M
+    [inWpConfig] => 
+)
+
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 50
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+
+EVALUATE TABLE: "en0722_bp_activity"______________________________[ROWS:    31][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_activity][0]
+
+EVALUATE TABLE: "en0722_bp_activity_meta"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_activity_meta][0]
+
+EVALUATE TABLE: "en0722_bp_friends"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_groups"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_groups_groupmeta"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_groups_members"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_invitations"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_messages_messages"_____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_messages_messages][0]
+
+EVALUATE TABLE: "en0722_bp_messages_meta"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_messages_notices"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_messages_recipients"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_messages_recipients][0]
+
+EVALUATE TABLE: "en0722_bp_notifications"_________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_notifications][0]
+
+EVALUATE TABLE: "en0722_bp_notifications_meta"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_bp_xprofile_data"_________________________[ROWS:    26][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_xprofile_data][0]
+
+EVALUATE TABLE: "en0722_bp_xprofile_fields"_______________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_xprofile_fields][0]
+
+EVALUATE TABLE: "en0722_bp_xprofile_groups"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_xprofile_groups][0]
+
+EVALUATE TABLE: "en0722_bp_xprofile_meta"_________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_bp_xprofile_meta][0]
+
+EVALUATE TABLE: "en0722_commentmeta"______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_commentmeta][0]
+
+EVALUATE TABLE: "en0722_comments"_________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_comments][0]
+
+EVALUATE TABLE: "en0722_dlm_aam_rules"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_dlm_aam_rules][0]
+
+EVALUATE TABLE: "en0722_dlm_buttons"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_dlm_buttons][0]
+
+EVALUATE TABLE: "en0722_dlm_order"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_dlm_order_customer"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_dlm_order_item"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_dlm_order_transaction"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_dlm_session"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_download_log"_____________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_download_log][0]
+
+EVALUATE TABLE: "en0722_duplicator_pro_entities"__________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "en0722_duplicator_pro_packages"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_enuo_configs"_____________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_enuo_configs][0]
+
+EVALUATE TABLE: "en0722_links"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_logy_users"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_options"__________________________________[ROWS:  1048][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_options][0]
+	CHUNK ACTION: CURRENT [search_replace][en0722_options][1]
+
+EVALUATE TABLE: "en0722_pmpro_discount_codes"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_pmpro_discount_codes_levels"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_pmpro_discount_codes_uses"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_pmpro_membership_levelmeta"_______________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_pmpro_membership_levelmeta][0]
+
+EVALUATE TABLE: "en0722_pmpro_membership_levels"__________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_pmpro_membership_levels][0]
+
+EVALUATE TABLE: "en0722_pmpro_membership_orders"__________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_pmpro_membership_orders][0]
+
+EVALUATE TABLE: "en0722_pmpro_memberships_categories"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_pmpro_memberships_pages"__________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_pmpro_memberships_pages][0]
+
+EVALUATE TABLE: "en0722_pmpro_memberships_users"__________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_pmpro_memberships_users][0]
+
+EVALUATE TABLE: "en0722_postmeta"_________________________________[ROWS:  4845][PG:   5][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][en0722_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][en0722_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][en0722_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][en0722_postmeta][4]
+
+EVALUATE TABLE: "en0722_posts"____________________________________[ROWS:   868][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_posts][0]
+	
+STEP-3 CHUNK STOP @ 09:56:12 - RUNTIME: 5.5429 sec. 
+
+
+
+-------------------------
+AJAX ACTION webupdate
+
+EVALUATE TABLE: "en0722_revslider_css"____________________________[ROWS:   130][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_css][0]
+
+EVALUATE TABLE: "en0722_revslider_css_bkp"________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_css_bkp][0]
+
+EVALUATE TABLE: "en0722_revslider_layer_animations"_______________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_layer_animations][0]
+
+EVALUATE TABLE: "en0722_revslider_layer_animations_bkp"___________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_layer_animations_bkp][0]
+
+EVALUATE TABLE: "en0722_revslider_navigations"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_revslider_navigations_bkp"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_revslider_sliders"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_sliders][0]
+
+EVALUATE TABLE: "en0722_revslider_sliders_bkp"____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_sliders_bkp][0]
+
+EVALUATE TABLE: "en0722_revslider_slides"_________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_slides][0]
+
+EVALUATE TABLE: "en0722_revslider_slides_bkp"_____________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_slides_bkp][0]
+
+EVALUATE TABLE: "en0722_revslider_static_slides"__________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_static_slides][0]
+
+EVALUATE TABLE: "en0722_revslider_static_slides_bkp"______________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_revslider_static_slides_bkp][0]
+
+EVALUATE TABLE: "en0722_rt_rtm_activity"__________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_rt_rtm_activity][0]
+
+EVALUATE TABLE: "en0722_rt_rtm_api"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_rt_rtm_media"_____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_rt_rtm_media][0]
+
+EVALUATE TABLE: "en0722_rt_rtm_media_interaction"_________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_rt_rtm_media_interaction][0]
+
+EVALUATE TABLE: "en0722_rt_rtm_media_meta"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_rt_rtm_media_meta][0]
+
+EVALUATE TABLE: "en0722_signups"__________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	--- BASE STRINGS ---
+	--- BASE STRINGS ---
+	CHUNK ACTION: CURRENT [search_replace][en0722_signups][0]
+
+EVALUATE TABLE: "en0722_term_relationships"_______________________[ROWS:   337][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_term_relationships][0]
+
+EVALUATE TABLE: "en0722_term_taxonomy"____________________________[ROWS:    74][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_term_taxonomy][0]
+
+EVALUATE TABLE: "en0722_termmeta"_________________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_termmeta][0]
+
+EVALUATE TABLE: "en0722_terms"____________________________________[ROWS:    74][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_terms][0]
+
+EVALUATE TABLE: "en0722_usermeta"_________________________________[ROWS:   249][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_usermeta][0]
+
+EVALUATE TABLE: "en0722_users"____________________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/enuo/public_html" ==========================> "/home/oasystec/public_html/enuo"
+	SEARCH[urlnd]  2:"http://enuo.com" =================================> "https://oasys-tec.com.ar/enuo"
+	CHUNK ACTION: CURRENT [search_replace][en0722_users][0]
+
+EVALUATE TABLE: "en0722_yz_bookmark"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_yz_hashtags"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_yz_hashtags_items"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "en0722_yz_reviews"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:72 	|	 Rows:7901 	|	 Cells:49207 
+UPDATED:	Tables:9 	|	 Rows:730 	|	 Cells:844 
+ERRORS:		0 
+RUNTIME:	6.386200 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""oasystec_enuo""
+	UPDATE DB_USER ""oasystec_admin""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	WP CONFIG UPDATE WP_DEBUG false
+	WP CONFIG UPDATE WP_AUTO_UPDATE_CORE "minor"
+	
+*** UPDATED WP CONFIG FILE ***
+CHUNK ACTION: CURRENT [htaccess_update][][]
+
+====================================
+HTACCESS UPDATE
+====================================
+[PHP ERR][WARN] MSG:rename(/home/oasystec/public_html/enuo/.htaccess__8add206-15213109,/home/oasystec/public_html/enuo/htaccess.orig1837927683): No such file or directory [CODE:2|FILE:/home/oasystec/public_html/enuo/dup-installer/classes/config/class.conf.srv.php|LINE:124]
+
+Reset original .htaccess content from .htaccess__[HASH]
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+- Removed '0' schedule storage items
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+[PHP ERR][WARN] MSG:file_get_contents(): Filename cannot be empty [CODE:2|FILE:/home/oasystec/public_html/enuo/dup-installer/ctrls/classes/class.ctrl.s3.funcs.php|LINE:1753]
+
+STEP-3 COMPLETE @ 09:56:13 - RUNTIME: 0.7955 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] DB EXTRACTION - INSTALL NOTICES (6)
+	SECTIONS: database
+	LONG MSG: Queries that error during the deploy step are logged to the         <a class="dup-ligthbox-link" data-dup-ligthbox="dup-html-id-6-1626386173-8396" >installer-log.txt</a>
+        <div id="dup-html-id-6-1626386173-8396" class="dub-ligthbox-content close">
+            <div class="wrapper" >
+                <h2 class="title" >installer-log.txt</h2>
+                <div class="content" ><iframe class="dup-lightbox-iframe" data-iframe-url="https://oasys-tec.com.ar/enuo/dup-installer/dup-installer-log__8add206-15213109.txt?now=215613"></iframe> </div><div class="tool-box"><button class="button toggle-auto-update disabled" title="Enable auto reload" ><i class="fa fa-2x fa-redo-alt"></i></button><a target="_blank" class="button download-button" title="Download" download="dup-installer-log__8add206-15213109.txt" href="https://oasys-tec.com.ar/enuo/dup-installer/dup-installer-log__8add206-15213109.txt?now=215613" onclick="function () { event.preventDefault(); return false;}" ><i class="fa fa-2x fa-download"></i></a></div>                <button class="close-button" title="Close" ><i class="fa fa-2x fa-times"></i></button>
+            </div>
+        </div>
+        file and
+and marked with an **ERROR** status.   If you experience a few errors (under 5), in many cases they can be ignored as long as your site is working correctly.
+However if you see a large amount of errors or you experience an issue with your site then the error messages in the log file will need to be investigated.
+<br/><br/>
+
+<b>COMMON FIXES:</b>
+<ul>
+    <li>
+        <b>Unknown collation:</b> See Online FAQ:
+        <a href="https://snapcreek.com/duplicator/docs/faqs-tech/#faq-trouble-090-q" target="_blank">What is Compatibility mode & 'Unknown collation' errors?</a>
+    </li>
+    <li>
+        <b>Query Limits:</b> Update MySQL server with the <a href="https://dev.mysql.com/doc/refman/5.5/en/packet-too-large.html" target="_blank">max_allowed_packet</a>
+        setting for larger payloads.
+    </li>
+</ul>
+
+-----------------------
+[WARNING] Some errors in the database (7)
+	SECTIONS: database
+
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[WARNING] Files not extracted
+	SECTIONS: files
+	LONG MSG: FILE: <b>wp-content/uploads/youzer/file_5f3c195a5bbaa./</b><br>Message: ZipArchive::extractTo(/home/oasystec/public_html/enuo/): failed to open stream: Is a directory
+<br><br>
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'character_set_client' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'character_set_client' can't be set to the value of 'NULL''
+	[SQL=/*!40101 SET character_set_client = @saved_cs_client */;...]
+
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'time_zone' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'time_zone' can't be set to the value of 'NULL''
+	[SQL=/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;...]
+
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'sql_mode' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'sql_mode' can't be set to the value of 'NULL''
+	[SQL=/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;...]
+
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'foreign_key_checks' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'foreign_key_checks' can't be set to the value of 'NULL''
+	[SQL=/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;...]
+
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'unique_checks' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'unique_checks' can't be set to the value of 'NULL''
+	[SQL=/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;...]
+
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Variable 'sql_notes' can't be set to the value of 'NULL'
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Variable 'sql_notes' can't be set to the value of 'NULL''
+	[SQL=/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;...]
+
+
+
+-----------------------
+[NOTICE] Jetpack by WordPress.com has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate Jetpack by WordPress.com after you login.
+	SECTIONS: plugins
+
+====================================
+LOG-TIME[/home/oasystec/public_html/enuo/dup-installer/ctrls/ctrl.base.php:224][DELTA:   0.03493]  MESSAGE:END RENDER PAGE

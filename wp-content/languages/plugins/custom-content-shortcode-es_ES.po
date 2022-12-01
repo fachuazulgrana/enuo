@@ -1,0 +1,90 @@
+# Translation of Plugins - Custom Content Shortcode - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Custom Content Shortcode - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-10 16:22:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Custom Content Shortcode - Development (trunk)\n"
+
+#: includes/modules/format.php:638
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "hace %s semana"
+msgstr[1] "hace %s semanas"
+
+#: includes/modules/format.php:636
+msgid "Yesterday"
+msgid_plural "%s days ago"
+msgstr[0] "Ayer"
+msgstr[1] "hace %s días"
+
+#: includes/modules/format.php:634
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "hace %s hora"
+msgstr[1] "hace %s horas"
+
+#: includes/modules/format.php:632
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "hace %s minuto"
+msgstr[1] "hace %s minutos"
+
+#: includes/modules/format.php:630
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "hace %s segundo"
+msgstr[1] "hace %s segundos"
+
+#. translators: If your word count is based on single characters (East Asian
+#. characters), enter 'characters'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: includes/modules/format.php:585
+msgctxt "word count: words or characters?"
+msgid "words"
+msgstr "palabras"
+
+#: includes/modules/format.php:581
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: includes/modules/comments.php:629
+msgid "Website"
+msgstr "Web"
+
+#: includes/modules/comments.php:621
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/modules/comments.php:415
+msgid "Reply"
+msgstr "Responder"
+
+#. Author URI of the plugin
+msgid "https://eliotakira.com"
+msgstr "https://eliotakira.com"
+
+#. Author of the plugin
+msgid "Eliot Akira"
+msgstr "Eliot Akira"
+
+#: includes/modules/comments.php:416
+msgid "Log in to Reply"
+msgstr "Accede para responder"
+
+#. Description of the plugin
+msgid "Display posts, pages, custom post types, custom fields, files, images, comments, attachments, menus, or widget areas"
+msgstr "Mostrar entradas, páginas, tipos de contenido personalizado, campos personalizados, archivos, imágenes, comentarios, adjuntos, menús o áreas de widgets."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/custom-content-shortcode/"
+msgstr "https://es.wordpress.org/plugins/custom-content-shortcode/"
+
+#. Plugin Name of the plugin
+msgid "Custom Content Shortcode"
+msgstr "Custom Content Shortcode"

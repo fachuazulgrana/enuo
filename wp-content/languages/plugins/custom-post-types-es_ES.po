@@ -1,0 +1,921 @@
+# Translation of Plugins - Custom post types - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Custom post types - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-01 19:08:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Custom post types - Stable (latest release)\n"
+
+#: custom-post-types.php:432
+msgctxt "block"
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: custom-post-types.php:417
+msgctxt "block"
+msgid "Field"
+msgstr "Campo"
+
+#: custom-post-types.php:423
+msgctxt "block"
+msgid "custom fields"
+msgstr "campos personalizados"
+
+#: custom-post-types.php:422
+msgctxt "block"
+msgid "custom field"
+msgstr "campo personalizado"
+
+#: custom-post-types.php:421
+msgctxt "block"
+msgid "fields"
+msgstr "campos"
+
+#: custom-post-types.php:420
+msgctxt "block"
+msgid "field"
+msgstr "campo"
+
+#: custom-post-types.php:416
+msgctxt "block"
+msgid "Custom field"
+msgstr "Campo personalizado"
+
+#: parts/edit-template.php:8
+msgid "Choose the type of content where you want to use the custom template, then click on the save or update button (for Gutenberg you must also refresh the page to show avaiable custom fields)."
+msgstr "Elije el tipo de contenido donde deseas utilizar la plantilla personalizada, luego haz clic en el botón Guardar o actualizar (en Gutenberg también debes actualizar la página para mostrar los campos personalizados disponibles)."
+
+#: custom-post-types.php:976
+msgid "%s reverted to draft"
+msgstr "%s devuelto a borrador"
+
+#: custom-post-types.php:978
+msgid "%s updated"
+msgstr "%s actualizado"
+
+#: custom-post-types.php:977
+msgid "%s scheduled"
+msgstr "%s programado"
+
+#: custom-post-types.php:975
+msgid "%s published privately"
+msgstr "%s publicado de forma privada"
+
+#: custom-post-types.php:974
+msgid "%s published"
+msgstr "%s publicado"
+
+#: custom-post-types.php:971
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: custom-post-types.php:967
+msgid "Uploaded to this %s"
+msgstr "Subido a este %s"
+
+#: custom-post-types.php:966
+msgid "Insert into %s"
+msgstr "Insertar en %s"
+
+#: custom-post-types.php:965
+msgid "%s attributes"
+msgstr "Atributos de %s"
+
+#: custom-post-types.php:964
+msgid "%s archives"
+msgstr "Archivos de %s"
+
+#: parts/edit-tax.php:166 parts/edit-cpt.php:347
+msgid "Simple view"
+msgstr "Vista simple"
+
+#: parts/edit-tax.php:164 parts/edit-cpt.php:345
+msgid "Advanced view"
+msgstr "Vista avanzada"
+
+#: parts/edit-cpt.php:266
+msgid "The item updated text."
+msgstr "El texto de «elemento actualizado»."
+
+#: parts/edit-cpt.php:265
+msgid "ex: Product updated"
+msgstr "Ej.: El producto se ha actualizado"
+
+#: parts/edit-cpt.php:263
+msgid "Item updated"
+msgstr "Elemento actualizado"
+
+#: parts/edit-cpt.php:258
+msgid "The item scheduled text."
+msgstr "El texto de «elemento programado»."
+
+#: parts/edit-cpt.php:257
+msgid "ex: Product scheduled"
+msgstr "Ej.: El producto se ha programado"
+
+#: parts/edit-cpt.php:255
+msgid "Item scheduled"
+msgstr "Elemento proramado"
+
+#: parts/edit-cpt.php:250
+msgid "The item reverted to draft text."
+msgstr "El texto «elemento devuelto a borrador»."
+
+#: parts/edit-cpt.php:249
+msgid "ex: Product reverted to draft"
+msgstr "Ej.: Producto devuelto a borrador"
+
+#: parts/edit-cpt.php:247
+msgid "Item reverted to draft"
+msgstr "Elemento devuelto a borrador"
+
+#: parts/edit-cpt.php:242
+msgid "The item published privately text."
+msgstr "El texto de «elemento publicado de forma privada»"
+
+#: parts/edit-cpt.php:241
+msgid "ex: Product published privately"
+msgstr "Ej.: El producto se ha publicado de forma privada"
+
+#: parts/edit-cpt.php:239
+msgid "Item published privately"
+msgstr "Elemento publicado de forma privada"
+
+#: parts/edit-cpt.php:234
+msgid "The item published text."
+msgstr "El texto de «elemento publicado»"
+
+#: parts/edit-cpt.php:233
+msgid "ex: Product published"
+msgstr "Ej.: Producto publicado"
+
+#: parts/edit-cpt.php:231
+msgid "Item published"
+msgstr "Elemento publicado"
+
+#: parts/edit-cpt.php:226
+msgid "The name admin bar text."
+msgstr "El texto del nombre en la barra de administración"
+
+#: parts/edit-cpt.php:223
+msgid "Name admin bar"
+msgstr "Nombre en la barra de administración"
+
+#: parts/edit-tax.php:108 parts/edit-cpt.php:218
+msgid "The menu name text."
+msgstr "El texto del nombre del menú."
+
+#: parts/edit-tax.php:105 parts/edit-cpt.php:215
+msgid "Menu name"
+msgstr "Nombre del menú"
+
+#: parts/edit-cpt.php:210
+msgid "The use featured image text."
+msgstr "El texto de «usar imagen destacada»"
+
+#: parts/edit-cpt.php:209
+msgid "ex: Use as featured image"
+msgstr "Ej.: Usar como imagen destacada"
+
+#: parts/edit-cpt.php:207
+msgid "Use featured image"
+msgstr "Usar imagen destacada"
+
+#: parts/edit-cpt.php:202
+msgid "The remove featured image text."
+msgstr "El texto «quitar imagen destacada»"
+
+#: parts/edit-cpt.php:201
+msgid "ex: Remove featured image"
+msgstr "Ej.: Quitar imagen destacada"
+
+#: custom-post-types.php:970 parts/edit-cpt.php:199
+msgid "Remove featured image"
+msgstr "Eliminar imagen destacada"
+
+#: parts/edit-cpt.php:194
+msgid "The set featured image text."
+msgstr "El texto «establecer imagen destacada»"
+
+#: parts/edit-cpt.php:193
+msgid "ex: Set featured image"
+msgstr "Ej.: Establecer imagen destacada"
+
+#: custom-post-types.php:969 parts/edit-cpt.php:191
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: parts/edit-cpt.php:186
+msgid "The featured image text."
+msgstr "El texto «imagen destacada»."
+
+#: parts/edit-cpt.php:185
+msgid "ex: Featured image"
+msgstr "Ej.: Imagen destacada"
+
+#: parts/edit-cpt.php:178
+msgid "The uploaded to this item text."
+msgstr "El texto «subido a este elemento»."
+
+#: parts/edit-cpt.php:177
+msgid "ex: Uploaded to this product"
+msgstr "Ej.: Subido a este producto"
+
+#: parts/edit-cpt.php:175
+msgid "Uploaded to this item"
+msgstr "Subido a este elemento"
+
+#: parts/edit-cpt.php:170
+msgid "The insert into item text."
+msgstr "El texto «insertar en el elemento»."
+
+#: parts/edit-cpt.php:169
+msgid "ex: Insert into product"
+msgstr "Ej.: Insertar en el producto"
+
+#: parts/edit-cpt.php:167
+msgid "Insert into item"
+msgstr "Insertar en este elemento"
+
+#: parts/edit-cpt.php:162
+msgid "The attributes text."
+msgstr "El texto de los atributos."
+
+#: parts/edit-cpt.php:161
+msgid "ex: Product attributes"
+msgstr "Ej.: Atributos del producto"
+
+#: parts/edit-cpt.php:159
+msgid "Attributes"
+msgstr "Atributos"
+
+#: parts/edit-cpt.php:154
+msgid "The archives text."
+msgstr "El texto de los archivos."
+
+#: parts/edit-cpt.php:153
+msgid "ex: Product archives"
+msgstr "Ej.: Archivos del producto"
+
+#: parts/edit-cpt.php:151
+msgid "Archivies"
+msgstr "Archivos"
+
+#: parts/edit-tax.php:52 parts/edit-cpt.php:146
+msgid "The all items text."
+msgstr "El texto de todos los elementos."
+
+#: parts/edit-cpt.php:145
+msgid "ex: All products"
+msgstr "Ej.: Todos los productos"
+
+#: parts/edit-tax.php:49 parts/edit-cpt.php:143
+msgid "All items"
+msgstr "Todos los elementos"
+
+#: parts/edit-tax.php:60 parts/edit-cpt.php:138
+msgid "The parent item text."
+msgstr "El texto del elemento padre."
+
+#: parts/edit-cpt.php:137
+msgid "ex: Parent product"
+msgstr "Ej.: Producto padre"
+
+#: parts/edit-tax.php:57 parts/edit-cpt.php:135
+msgid "Parent item"
+msgstr "Elemento padre"
+
+#: parts/edit-cpt.php:130
+msgid "The not found in trash text."
+msgstr "El texto de «no encontrado en papelera»."
+
+#: parts/edit-cpt.php:129
+msgid "ex: No product found in trash"
+msgstr "Ej.: No se encontraron productos en la papelera."
+
+#: parts/edit-cpt.php:127
+msgid "Not found in trash"
+msgstr "No encontrado en papelera"
+
+#: parts/edit-cpt.php:122
+msgid "The not found text."
+msgstr "El texto «no se encontró»"
+
+#: parts/edit-cpt.php:121
+msgid "ex: No product found"
+msgstr "Ej.: El producto no se encontró"
+
+#: parts/edit-cpt.php:119
+msgid "Not found"
+msgstr "No se encontró"
+
+#: parts/edit-tax.php:44 parts/edit-cpt.php:114
+msgid "The search items text."
+msgstr "El texto «buscar elementos»."
+
+#: parts/edit-cpt.php:113
+msgid "ex: Search products"
+msgstr "Ej.: Buscar productos"
+
+#: parts/edit-tax.php:41 parts/edit-cpt.php:111
+msgid "Search items"
+msgstr "Buscar elementos"
+
+#: parts/edit-cpt.php:106
+msgid "The view items text."
+msgstr "El texto «ver elementos»."
+
+#: parts/edit-cpt.php:105
+msgid "ex: View products"
+msgstr "Ej.: Ver productos"
+
+#: parts/edit-cpt.php:103
+msgid "View items"
+msgstr "Ver elementos"
+
+#: parts/edit-cpt.php:98
+msgid "The view item text."
+msgstr "El texto «ver elemento»."
+
+#: parts/edit-cpt.php:97
+msgid "ex: View product"
+msgstr "Ej.: Ver producto"
+
+#: parts/edit-cpt.php:95
+msgid "View item"
+msgstr "Ver elemento"
+
+#: parts/edit-tax.php:100 parts/edit-cpt.php:90
+msgid "The new item text."
+msgstr "El texto «nuevo elemento»."
+
+#: parts/edit-cpt.php:89 parts/edit-cpt.php:225
+msgid "ex: New product"
+msgstr "Ej.: Nuevo producto"
+
+#: parts/edit-tax.php:97 parts/edit-cpt.php:87
+msgid "New item"
+msgstr "Nuevo elemento"
+
+#: parts/edit-tax.php:76 parts/edit-cpt.php:82
+msgid "The edit item text."
+msgstr "El texto «editar elemento»."
+
+#: parts/edit-cpt.php:81
+msgid "ex: Edit product"
+msgstr "Ej.: Editar producto"
+
+#: parts/edit-tax.php:73 parts/edit-cpt.php:79
+msgid "Edit item"
+msgstr "Editar artículo"
+
+#: parts/edit-tax.php:92 parts/edit-cpt.php:74
+msgid "The add new item text."
+msgstr "El texto «añadir nuevo elemento»."
+
+#: parts/edit-cpt.php:73
+msgid "ex: Add new product"
+msgstr "Ej.: Añadir un nuevo producto"
+
+#: parts/edit-tax.php:89 parts/edit-cpt.php:71
+msgid "Add new item"
+msgstr "Añadir un nuevo elemento"
+
+#: parts/edit-cpt.php:66
+msgid "The add new text."
+msgstr "El texto «añadir nuevo»."
+
+#: parts/edit-cpt.php:65
+msgid "ex: Add New"
+msgstr "Ej.: Añadir nuevo"
+
+#: parts/edit-cpt.php:63
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: custom-post-types.php:1371 custom-post-types.php:1382
+msgid "WordPress documentation"
+msgstr "Documentación de WordPress"
+
+#: parts/edit-template.php:80
+msgid "Custom field"
+msgstr "Campo personalizado"
+
+#: custom-post-types.php:338 parts/edit-template.php:73
+msgid "Post date"
+msgstr "Fecha de publicación"
+
+#: custom-post-types.php:339 parts/edit-template.php:77
+msgid "Post author"
+msgstr "Autor del artículo"
+
+#: parts/edit-template.php:55
+msgid "Default field"
+msgstr "Campo por defecto"
+
+#: custom-post-types.php:1387
+msgid "Continue"
+msgstr "Continuar"
+
+#: custom-post-types.php:337 parts/edit-template.php:69
+msgid "Post image"
+msgstr "Imagen de la publicación"
+
+#: custom-post-types.php:336 parts/edit-template.php:65
+msgid "Post excerpt"
+msgstr "Extracto del artículo"
+
+#: custom-post-types.php:335 parts/edit-template.php:61
+msgid "Post content"
+msgstr "Contenido del artículo"
+
+#: custom-post-types.php:334 parts/edit-template.php:57
+msgid "Post title"
+msgstr "Título del artículo"
+
+#: custom-post-types.php:778
+msgid "Template settings"
+msgstr "Ajustes de la plantilla"
+
+#: custom-post-types.php:674
+msgid "Custom templates"
+msgstr "Plantillas personalizadas"
+
+#: custom-post-types.php:1332 custom-post-types.php:1334
+#: custom-post-types.php:1395
+msgid "Review"
+msgstr "Reseña"
+
+#: custom-post-types.php:691
+msgid "Create and manage custom templates."
+msgstr "Crea y gestiona plantillas personalizadas."
+
+#: custom-post-types.php:682
+msgid "View template"
+msgstr "Ver plantilla"
+
+#: custom-post-types.php:681
+msgid "Edit template"
+msgstr "Editar plantilla"
+
+#: custom-post-types.php:680
+msgid "New template"
+msgstr "Nueva plantilla"
+
+#: custom-post-types.php:679
+msgid "Add new template"
+msgstr "Añadir nueva plantilla"
+
+#: custom-post-types.php:678
+msgid "Add template"
+msgstr "Añadir plantilla"
+
+#: custom-post-types.php:675 custom-post-types.php:676
+#: custom-post-types.php:677
+msgid "Template"
+msgstr "Plantilla"
+
+#: custom-post-types.php:686
+msgid "No template in the trash."
+msgstr "No hay plantillas en la papelera."
+
+#: custom-post-types.php:685
+msgid "No template available."
+msgstr "No hay plantillas disponibles."
+
+#: custom-post-types.php:684
+msgid "Search template"
+msgstr "Buscar plantilla"
+
+#: custom-post-types.php:534 custom-post-types.php:543
+msgctxt "Dashboard menu"
+msgid "Custom post types"
+msgstr "Tipos de contenido personalizados"
+
+#: custom-post-types.php:86 parts/view-field.php:73
+msgid "Select"
+msgstr "Seleccionar"
+
+#: custom-post-types.php:1186 custom-post-types.php:1192
+#: custom-post-types.php:1197 parts/edit-template.php:11
+msgid "Used by"
+msgstr "Usado por"
+
+#: custom-post-types.php:1177 custom-post-types.php:1184 parts/edit-tax.php:25
+#: parts/edit-cpt.php:46
+msgid "ID"
+msgstr "ID"
+
+#: custom-post-types.php:1178 custom-post-types.php:1185
+msgid "Permalink base"
+msgstr "Base de enlace permanente"
+
+#: custom-post-types.php:1332 custom-post-types.php:1334
+msgid "Close and don't show again"
+msgstr "Cerrar y no volver a mostrar."
+
+#: custom-post-types.php:1179
+msgid "Count"
+msgstr "Cantidad"
+
+#: custom-post-types.php:1160
+msgid "Send suggestion"
+msgstr "Enviar sugerencia"
+
+#: custom-post-types.php:1159
+msgid "Developer website"
+msgstr "Web del desarrollador"
+
+#: custom-post-types.php:1158 custom-post-types.php:1332
+#: custom-post-types.php:1334
+msgid "Send donation"
+msgstr "Enviar donación"
+
+#: custom-post-types.php:1155
+msgid "Work in progress..."
+msgstr "Trabajo en progreso..."
+
+#: custom-post-types.php:1147
+msgid "It must be unique. It will be used in the menu and as a slug in the URLs."
+msgstr "Debe ser único. Se utilizará en el menú y como slug en las URL."
+
+#: custom-post-types.php:1138
+msgid "Name"
+msgstr "Nombre"
+
+#: custom-post-types.php:1157
+msgid "I am working to implement this feature which will be free to all users. <br> Below is the donation link to help me support processing costs and the link to my website."
+msgstr "Estoy trabajando para implementar esta función que será gratuita para todos los usuarios. <br> Abajo hay un enlace de donación para ayudarme a mantener los gastos de procesamiento y el enlace a mi sitio web."
+
+#: custom-post-types.php:1072
+msgid "%s name"
+msgstr "Nombre de %s"
+
+#: custom-post-types.php:1070
+msgid "Update %s"
+msgstr "Actualizar %s"
+
+#: custom-post-types.php:961
+msgid "No Contents in the trash."
+msgstr "No hay contenidos en la papelera."
+
+#: custom-post-types.php:960
+msgid "No Contents avaiable."
+msgstr "No hay contenidos disponibles."
+
+#: custom-post-types.php:962 custom-post-types.php:1067
+#: custom-post-types.php:1068
+msgid "Parent %s"
+msgstr "Superior %s"
+
+#: custom-post-types.php:957 custom-post-types.php:958
+#: custom-post-types.php:963 custom-post-types.php:1066
+msgid "View %s"
+msgstr "Ver %s"
+
+#: custom-post-types.php:955 custom-post-types.php:1069
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: custom-post-types.php:956 custom-post-types.php:1071
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: custom-post-types.php:953 custom-post-types.php:954
+msgid "Add new %s"
+msgstr "Añadir nuevo %s"
+
+#: parts/edit-tax.php:149
+msgid "Choose for which POST TYPE use this taxonomy."
+msgstr "Elija para qué TIPO DE CONTENIDO utiliza esta taxonomía."
+
+#: parts/edit-template.php:15 parts/edit-tax.php:138 parts/edit-field.php:73
+#: parts/edit-field.php:110
+msgid "Posts"
+msgstr "Entradas"
+
+#: parts/edit-tax.php:135 parts/edit-field.php:107
+msgid "Assignment"
+msgstr "Asignación"
+
+#: parts/edit-tax.php:35
+msgid "ex: Product Category"
+msgstr "ej: Categoría de producto"
+
+#: parts/edit-tax.php:154 parts/edit-field.php:124 parts/edit-cpt.php:335
+msgid "Administrators only"
+msgstr "Solo administradores"
+
+#: custom-post-types.php:968 parts/edit-cpt.php:183 parts/edit-cpt.php:316
+msgid "Featured image"
+msgstr "Imagen destacada"
+
+#: parts/edit-cpt.php:305
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: parts/edit-cpt.php:294
+msgid "Content editor"
+msgstr "Editor de contenido"
+
+#: parts/edit-tax.php:124 parts/edit-cpt.php:283
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: parts/edit-tax.php:117 parts/edit-tax.php:128 parts/edit-tax.php:158
+#: parts/edit-field.php:128 parts/edit-cpt.php:276 parts/edit-cpt.php:287
+#: parts/edit-cpt.php:298 parts/edit-cpt.php:309 parts/edit-cpt.php:320
+#: parts/edit-cpt.php:339
+msgid "NO"
+msgstr "NO"
+
+#: parts/edit-tax.php:116 parts/edit-tax.php:127 parts/edit-tax.php:157
+#: parts/edit-field.php:127 parts/edit-cpt.php:275 parts/edit-cpt.php:286
+#: parts/edit-cpt.php:297 parts/edit-cpt.php:308 parts/edit-cpt.php:319
+#: parts/edit-cpt.php:338
+msgid "YES"
+msgstr "SÍ"
+
+#: parts/edit-tax.php:113 parts/edit-cpt.php:272
+msgid "Hierarchical"
+msgstr "Jerárquico"
+
+#: parts/edit-tax.php:36 parts/edit-cpt.php:57
+msgid "Singular name."
+msgstr "Nombre singular."
+
+#: parts/edit-cpt.php:56 parts/edit-cpt.php:217
+msgid "ex: Product"
+msgstr "ej: Producto"
+
+#: parts/edit-tax.php:33 parts/edit-cpt.php:54
+msgid "Single name"
+msgstr "Nombre singular"
+
+#: custom-post-types.php:597
+msgid "Create and manage custom taxonomies."
+msgstr "Crea y gestiona taxonomías personalizadas."
+
+#: custom-post-types.php:590
+msgid "Search taxonomy"
+msgstr "Buscar taxonomia"
+
+#: custom-post-types.php:588
+msgid "View taxonomy"
+msgstr "Ver taxonomía"
+
+#: custom-post-types.php:587
+msgid "Edit taxonomy"
+msgstr "Editar taxonomía"
+
+#: custom-post-types.php:586
+msgid "New taxonomy"
+msgstr "Nueva taxonomia"
+
+#: custom-post-types.php:585
+msgid "Add new taxonomy"
+msgstr "Añadir nueva taxonomía"
+
+#: custom-post-types.php:584
+msgid "Add taxonomy"
+msgstr "Añadir taxonomia"
+
+#: custom-post-types.php:581 custom-post-types.php:582
+#: custom-post-types.php:583
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: custom-post-types.php:580 custom-post-types.php:589
+msgid "Custom taxonomies"
+msgstr "Taxonomias personalizadas"
+
+#: custom-post-types.php:545
+msgid "No post type available."
+msgstr "Ningún tipo de contenido disponible."
+
+#: custom-post-types.php:544
+msgid "Search post type"
+msgstr "Buscar tipo de contenido"
+
+#: custom-post-types.php:542
+msgid "View post type"
+msgstr "Ver tipo de contenido"
+
+#: custom-post-types.php:541
+msgid "Edit post type"
+msgstr "Editar tipo de contenido"
+
+#: custom-post-types.php:540
+msgid "New post type"
+msgstr "Nuevo tipo de contenido"
+
+#: custom-post-types.php:539
+msgid "Add new post type"
+msgstr "Añadir nuevo tipo de contenido"
+
+#: custom-post-types.php:538
+msgid "Add post type"
+msgstr "Añadir tipo de contenido"
+
+#: custom-post-types.php:536 parts/edit-template.php:14
+msgid "Post types"
+msgstr "Tipos de contenido"
+
+#: custom-post-types.php:535 custom-post-types.php:537
+msgid "Post type"
+msgstr "Tipo de contenido"
+
+#. Author URI of the plugin
+msgid "https://www.andreadegiovine.it/?utm_source=wordpress_org&utm_medium=plugin_details&utm_campaign=custom_post_types"
+msgstr "https://www.andreadegiovine.it/?utm_source=wordpress_org&utm_medium=plugin_details&utm_campaign=custom_post_types"
+
+#. Author of the plugin
+msgid "Andrea De Giovine"
+msgstr "Andrea De Giovine"
+
+#. Plugin URI of the plugin
+msgid "https://www.andreadegiovine.it/download/custom-post-types/?utm_source=wordpress_org&utm_medium=plugin_link&utm_campaign=custom_post_types"
+msgstr "https://www.andreadegiovine.it/download/custom-post-types/?utm_source=wordpress_org&utm_medium=plugin_link&utm_campaign=custom_post_types"
+
+#: custom-post-types.php:760
+msgid "Taxonomy settings"
+msgstr "Ajustes de la taxonomía"
+
+#: custom-post-types.php:751
+msgid "Post type settings"
+msgstr "Ajustes del tipo de contenido"
+
+#: custom-post-types.php:959 custom-post-types.php:1065
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: parts/edit-tax.php:130
+msgid "If set to \"YES\" it will be shown in the frontend and will have a permalink and an archive template."
+msgstr "Si se establece en «SÍ», se mostrará en la portada y tendrá un enlace permanente y una plantilla de archivo."
+
+#: parts/edit-tax.php:119
+msgid "If set to \"YES\" it will be possible to set a parent TAXONOMY (as for the posts categories)."
+msgstr "Si se establece en «SÍ», será posible establecer una TAXONOMÍA principal (como para las categorías de artículos)."
+
+#: parts/edit-tax.php:160 parts/edit-field.php:130 parts/edit-cpt.php:341
+msgid "If set to \"YES\", only the administrators can create / modify these contents, if \"NO\" all the roles with the minimum capacity of \"edit_posts\"."
+msgstr "Si se establece en «SÍ», solo los administradores pueden crear / modificar estos contenidos, si eliges «NO» todos los perfiles con la capacidad mínima de «edit_posts»."
+
+#: parts/edit-cpt.php:330
+msgid "You can enter the name of an <a href=\"https://developer.wordpress.org/resource/dashicons\" target=\"_blank\" rel=\"nofolow\">Dashicons</a> icon (ex: dashicons-tag) or the URL of an image (20px * 20px)."
+msgstr "Puedes introducir el nombre de un ícono de <a href=\"https://developer.wordpress.org/resource/dashicons\" target=\"_blank\" rel=\"nofolow\">Dashicons</a> (ej: dashicons-tag) o la URL de una imagen (20px * 20px)."
+
+#: parts/edit-cpt.php:327
+msgid "Menu icon"
+msgstr "Icono del menú"
+
+#: parts/edit-cpt.php:322
+msgid "If set to \"YES\" the \"Featured image\" field will be shown during creation / modification."
+msgstr "Si se establece en «SÍ», el campo «Imagen destacada» se mostrará durante la creación / modificación."
+
+#: parts/edit-cpt.php:311
+msgid "If set to \"YES\" the \"Excerpt\" field will be shown during creation / modification."
+msgstr "Si se establece en «SÍ«, el campo «Extracto» se mostrará durante la creación / modificación."
+
+#: parts/edit-cpt.php:300
+msgid "If set to \"YES\" the content editor will be shown during creation / modification."
+msgstr "Si se establece en «SÍ», el editor de contenido se mostrará durante la creación / modificación."
+
+#: parts/edit-cpt.php:278
+msgid "If set to \"YES\" it will be possible to set a parent POST TYPE (as for pages)."
+msgstr "Si se establece en «SÍ», será posible establecer un TIPO DE CONTENIDO principal (como para las páginas)."
+
+#: custom-post-types.php:592
+msgid "No taxonomy in the trash."
+msgstr "No hay ninguna taxonomía en la papelera."
+
+#: custom-post-types.php:591
+msgid "No taxonomy available."
+msgstr "No hay ninguna taxonomía disponible."
+
+#: custom-post-types.php:551
+msgid "Create and manage custom post types."
+msgstr "Crea y administra tipos de contenido personalizados."
+
+#: parts/edit-cpt.php:289
+msgid "If set to \"YES\" it will be shown in the frontend and will have a permalink and a single template."
+msgstr "Si se establece en «SÍ» se mostrará en la portada y tendrá un enlace permanente una plantilla de entrada única."
+
+#: custom-post-types.php:546
+msgid "No post type in the trash."
+msgstr "No hay ningún tipo de contenido en la papelera."
+
+#: custom-post-types.php:1332 custom-post-types.php:1334
+msgid "<strong>Custom post type</strong> notice:<br>Thanks for using this plugin! Do you want to help us grow to add new features?"
+msgstr "Aviso de <strong>Custom post type</strong>:<br>¡Gracias por usar este plugin! ¿Quieres ayudarnos a crecer para añadir nuevas características?"
+
+#: custom-post-types.php:1025
+msgid "Post type created with the \"Custom post type\" plugin."
+msgstr "Tipo de contenido creado con el plugin «Custom post type»."
+
+#: custom-post-types.php:683
+msgid "Custom template"
+msgstr "Plantilla personalizada"
+
+#. Plugin Name of the plugin
+msgid "Custom post types"
+msgstr "Custom post types"
+
+#: custom-post-types.php:120 parts/edit-field.php:52
+msgid "Field options, one per row"
+msgstr "Opciones de campo, una por fila"
+
+#: parts/edit-field.php:143 parts/edit-field.php:144 parts/edit-field.php:237
+#: parts/edit-field.php:238
+msgid "Field name"
+msgstr "Nombre del campo"
+
+#: parts/edit-field.php:222 parts/edit-field.php:264
+msgid "delete"
+msgstr "borrar"
+
+#: parts/edit-field.php:35
+msgid "FILE UPLOAD"
+msgstr "SUBIR ARCHIVO"
+
+#: parts/edit-field.php:32
+msgid "TIME"
+msgstr "HORA"
+
+#: parts/edit-field.php:29
+msgid "DATE"
+msgstr "FECHA"
+
+#: parts/edit-field.php:25
+msgid "DROPDOWN"
+msgstr "DESPLEGABLE"
+
+#: parts/edit-field.php:22
+msgid "EMAIL"
+msgstr "CORREO ELECTRÓNICO"
+
+#: parts/edit-field.php:19
+msgid "TEXTAREA"
+msgstr "TEXTAREA"
+
+#: parts/edit-field.php:16
+msgid "NUMBER"
+msgstr "NÚMERO"
+
+#: parts/edit-field.php:13
+msgid "TEXT"
+msgstr "TEXTO"
+
+#: custom-post-types.php:1394
+msgid "Support"
+msgstr "Soporte"
+
+#: parts/edit-field.php:155 parts/edit-field.php:249
+msgid "Field type..."
+msgstr "Tipo de campo..."
+
+#: parts/edit-template.php:13 parts/view-field.php:59 parts/view-field.php:78
+#: parts/view-field.php:96
+msgid "- Choose -"
+msgstr "- Elegir -"
+
+#: parts/edit-field.php:232
+msgid "Add field"
+msgstr "Añadir un campo"
+
+#: parts/edit-field.php:219 parts/edit-field.php:261
+msgid "Required"
+msgstr "Obligatorio"
+
+#: parts/edit-field.php:133
+msgid "Fields list"
+msgstr "Lista de campos"
+
+#: parts/edit-field.php:100
+msgid "SIDEBAR"
+msgstr "BARRA LATERAL"
+
+#: parts/edit-field.php:99
+msgid "EDITOR"
+msgstr "EDITOR"
+
+#: parts/edit-field.php:96
+msgid "Position"
+msgstr "Posición"
+
+#: custom-post-types.php:769
+msgid "Field settings"
+msgstr "Ajustes del campo"
+
+#: parts/edit-field.php:119
+msgid "Choose for which POST TYPE use this field."
+msgstr "Elige en qué tipo de contenido usar este campo."
+
+#: custom-post-types.php:644
+msgid "Create and manage custom fields groups."
+msgstr "Crea y gestiona grupos de campos personalizados."

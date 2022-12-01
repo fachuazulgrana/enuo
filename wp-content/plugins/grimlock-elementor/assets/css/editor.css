@@ -1,0 +1,137 @@
+/**
+ * Elementor Editor
+ */
+.elementor-control div.grimlock-widget {
+  margin: -16px -20px 0 -20px;
+}
+
+.elementor-control div.grimlock-widget .hidden {
+  display: none !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget .grimlock_section_widget-image .placeholder.upload-button {
+    background: #34383c;
+  }
+}
+
+.elementor-control div.grimlock-widget .tabs-panel {
+  padding: 20px;
+  margin: 0;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container {
+  float: none !important;
+  width: 100%;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container .wp-color-result.button .color-alpha {
+  height: 100% !important;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container .wp-color-result.button.wp-picker-open {
+  top: calc(-24px - 1rem);
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget .wp-picker-container .iris-picker {
+    background: #34383c;
+    border: 0;
+  }
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container.wp-picker-active {
+  margin-top: 1rem;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container.wp-picker-active .wp-picker-input-wrap {
+  padding: 0;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container.wp-picker-active .wp-picker-input-wrap .button {
+  width: 100%;
+  max-width: 80px;
+  height: 28px;
+  background: none;
+}
+
+.elementor-control div.grimlock-widget .wp-picker-container.wp-picker-active .wp-picker-input-wrap input[type="text"].wp-color-picker {
+  width: 100px;
+  height: 28px;
+  min-height: 28px;
+  padding: 5px;
+}
+
+.elementor-control div.grimlock-widget ul.grimlock-widget-tabs {
+  box-shadow: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget ul.grimlock-widget-tabs > li {
+    background: #34383c;
+  }
+}
+
+.elementor-control div.grimlock-widget ul.grimlock-widget-tabs > li:hover a, .elementor-control div.grimlock-widget ul.grimlock-widget-tabs > li:active a {
+  border-bottom-color: rgba(211, 12, 92, 0.5);
+}
+
+.elementor-control div.grimlock-widget ul.grimlock-widget-tabs > li.tabs a {
+  color: #D30C5C;
+  background: #fff;
+  border-bottom-color: #D30C5C;
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget ul.grimlock-widget-tabs > li.tabs a {
+    background: #34383c;
+  }
+}
+
+.elementor-control div.grimlock-widget .button,
+.elementor-control div.grimlock-widget .button-secondary {
+  color: #D30C5C;
+  border-color: #D30C5C;
+  background: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget .button,
+  .elementor-control div.grimlock-widget .button-secondary {
+    background: #34383c;
+  }
+}
+
+.elementor-control div.grimlock-widget .button:hover, .elementor-control div.grimlock-widget .button:active, .elementor-control div.grimlock-widget .button:focus,
+.elementor-control div.grimlock-widget .button-secondary:hover,
+.elementor-control div.grimlock-widget .button-secondary:active,
+.elementor-control div.grimlock-widget .button-secondary:focus {
+  background: #fff;
+  border-color: #D30C5C;
+  color: #D30C5C;
+}
+
+@media (prefers-color-scheme: dark) {
+  .elementor-control div.grimlock-widget .button:hover, .elementor-control div.grimlock-widget .button:active, .elementor-control div.grimlock-widget .button:focus,
+  .elementor-control div.grimlock-widget .button-secondary:hover,
+  .elementor-control div.grimlock-widget .button-secondary:active,
+  .elementor-control div.grimlock-widget .button-secondary:focus {
+    background: #34383c;
+  }
+}
+
+.elementor-control div.grimlock-widget .grimlock_section_widget-radio-image__button > label:hover img, .elementor-control div.grimlock-widget .grimlock_section_widget-radio-image__button > label:active img, .elementor-control div.grimlock-widget .grimlock_section_widget-radio-image__button > label:focus img, .elementor-control div.grimlock-widget .grimlock_section_widget-radio-image__button > label.ui-state-active img {
+  border-color: #D30C5C;
+}
+
+.elementor-control div.grimlock-widget .attachment-media-view .actions {
+  display: flex;
+}
+
+.elementor-control div.grimlock-widget .attachment-media-view .actions .button {
+  margin-right: .25rem;
+}
+
+.elementor-control div.grimlock-widget .attachment-media-view .actions .button + .button {
+  margin-left: .25rem;
+}
